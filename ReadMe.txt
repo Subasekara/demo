@@ -2,4 +2,4 @@ Testing Git First Checkin
 
 Added New text
 
-Add New Line 1
+Add New Line
